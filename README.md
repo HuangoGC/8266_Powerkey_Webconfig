@@ -1,3 +1,3 @@
-# ESP8266_NONOS_SDK
+# ESP8266 上电三次触发网页配置
 
-All documentations @ http://espressif.com/en/support/download/documents?keys=&field_type_tid%5B%5D=14
+连续接通三次电源触发配置模式，配置STA连接的名称、密码
